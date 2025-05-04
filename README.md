@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>👋 Hi, I'm Silvia!</h1>
+
+<p>Backend development enthusiast passionate about Python and web applications, with a special interest in online marketplaces. I bring a background in translation and interpreting, project management, and strong problem-solving and attention to detail to every project.
+</p>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- 🎮 [Guess My Number](href) — A simple number guessing game.
+- ✂️ [Rock, Paper, Scissors](href) — A classic game with an interactive interface.
+- 🖥️ Coming soon: Python and backend development projects.
+
+<h2>💡 Skills</h2>
+
+- **Languages**: Python, HTML, CSS, SQL  
+- **Frameworks**: -
+- **Database**: -
+- **Tools & Platforms**: Git, GitHub, VS Code  
+
+<h2> 📩 Get in Touch</h2>
+
+<img align="left" alt="SilviaScivales | Email" width="22px" src="https://static.vecteezy.com/system/resources/thumbnails/050/663/133/small/email-envelope-line-stroke-icon-free-vector.jpg"/>[silvia.scivales@gmail.com](mailto:silvia.scivales@gmail.com)
+<br><img align="left" alt="SilviaScivales | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg"/>[LinkedIn](https://www.linkedin.com/in/silviascivales/)
 
 <!--
-**SilviaScivales/SilviaScivales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
