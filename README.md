@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions)
+- 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions) - Python web app for live weather updates via OpenWeatherMap API. 
 - 🎮 [Guess My Number](href) — A simple number guessing game.
 - ✂️ [Rock, Paper, Scissors](href) — A classic game with an interactive interface.
 - 🖥️ Coming soon: Python and backend development projects.
