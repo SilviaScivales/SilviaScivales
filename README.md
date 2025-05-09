@@ -6,14 +6,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions) - Python web app for live weather updates via OpenWeatherMap API. 
-- 🎮 [Guess My Number](href) — A simple number guessing game.
-- ✂️ [Rock, Paper, Scissors](href) — A classic game with an interactive interface.
-- 🖥️ Coming soon: Python and backend development projects.
+- 🖥️ [More coming soon]
 
 <h2>💡 Skills</h2>
 
 - **Languages**: Python, HTML, CSS, SQL  
-- **Frameworks**: -
+- **Frameworks**: Flask
 - **Database**: -
 - **Tools & Platforms**: Git, GitHub, VS Code  
 
