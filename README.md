@@ -5,7 +5,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions) - Python web app for live weather updates via OpenWeatherMap API. 
+- 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions) - Python web app for live weather updates via OpenWeatherMap API.
+- 🎮 [Python Arcade](https://github.com/SilviaScivales/py-arcade.git) - Python-based simple arcade games with interactive gameplay.
 - 🖥️ [More coming soon]
 
 <h2>💡 Skills</h2>
