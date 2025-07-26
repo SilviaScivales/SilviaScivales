@@ -12,8 +12,8 @@
 <h2>💡 Skills</h2>
 
 - **Languages**: Python, HTML, CSS, SQL  
-- **Frameworks**: Flask
-- **Database**: -
+- **Frameworks**: Flask, Django
+- **Database**: MySQL
 - **Tools & Platforms**: Git, GitHub, VS Code  
 
 <h2> 📩 Get in Touch</h2>
