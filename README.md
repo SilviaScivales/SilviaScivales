@@ -7,6 +7,7 @@
 
 - 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions) - Python web app for live weather updates via OpenWeatherMap API.
 - 🎮 [Python Arcade](https://github.com/SilviaScivales/py-arcade.git) - Python-based simple arcade games with interactive gameplay.
+- 📝 [Django Demo Blog](https://github.com/SilviaScivales/dj-demo-blog) - A simple Django web app that allows users to view and create blog posts. 
 - 🖥️ [More coming soon]
 
 <h2>💡 Skills</h2>
