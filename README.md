@@ -1,6 +1,8 @@
 <h1>👋 Hi, I'm Silvia!</h1>
 
-<p>Backend development enthusiast passionate about Python and web applications, with a special interest in online marketplaces. I bring a background in translation and interpreting, project management, and strong problem-solving and attention to detail to every project.
+<p>Junior software developer passionate about Python and 
+web applications, with a growing interest in online marketplaces. Brings transferable skills from translation, interpreting, and 
+project management, including strong communication, problem-solving, and attention to detail.
 </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
