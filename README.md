@@ -1,12 +1,11 @@
 <h1>👋 Hi, I'm Silvia!</h1>
 
-<p>Junior software developer passionate about Python and 
-web applications, with a growing interest in online marketplaces. Brings transferable skills from translation, interpreting, and 
-project management, including strong communication, problem-solving, and attention to detail.
+<p>Junior software developer with hands-on experience building a marketplace web application. Backend focus, with working knowledge of frontend technologies. Background in project and account management for large-scale web platforms, bringing strong communication, problem-solving and delivery skills. Interested in web applications and online marketplaces.
 </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- 📸 Clipics (startup) - Marketplace web application to find photographers and videographers. Python, Django, MySQL for backend. TypeScript, HTML, CSS and React for frontend.
 - 🌦️ [Get Weather Conditions](https://github.com/SilviaScivales/py-get-weather-conditions) - Python web app for live weather updates via OpenWeatherMap API.
 - 🎮 [Python Arcade](https://github.com/SilviaScivales/py-arcade.git) - Python-based simple arcade games with interactive gameplay.
 - 📝 [Django Demo Blog](https://github.com/SilviaScivales/dj-demo-blog) - A simple Django web app that allows users to view and create blog posts. 
@@ -14,10 +13,9 @@ project management, including strong communication, problem-solving, and attenti
 
 <h2>💡 Skills</h2>
 
-- **Languages**: Python, HTML, CSS, SQL  
-- **Frameworks**: Flask, Django
-- **Database**: MySQL
-- **Tools & Platforms**: Git, GitHub, VS Code  
+- **Backend**: Python, Django, SQL, MySQL  
+- **Frontend**: JavaScript, TypeScript, HTML, CSS, React
+- **Tools**: Git, GitHub 
 
 <h2> 📩 Get in Touch</h2>
 
